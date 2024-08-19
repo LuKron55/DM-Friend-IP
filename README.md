@@ -24,8 +24,9 @@ This Python script runs on a Raspberry Pi (or any Linux server) and monitors cha
 
     Clone the repository:
 
-    git clone https://github.com/your-username/raspberry-pi-ip-notifier.git
-    cd raspberry-pi-ip-notifier
+    git clone https://github.com/lukron55/DM-Friend-IP.git
+    cd DM-Friend-IP
+
 
 ### Install dependencies:
 
